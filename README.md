@@ -22,7 +22,9 @@ app:
   argo-token: ""
   # 节点备注的前缀标识
   remarks-prefix: ""
-```
+---------------------------------------------------------
+参数修改路径：src/main/resources/application.yml
+
 
 ## 📢 使用说明与免责声明
 
