@@ -3,7 +3,7 @@ spring:
     name: java-xah
 app:
   domain:
-  port:"7006"
+  port:
   uuid:
   xray-version:
   hy2-version:
@@ -13,4 +13,4 @@ app:
   reality-public-key:
   reality-private-key:
   reality-short-id:
-  remarks-prefix:"host2play"
+  remarks-prefix:
