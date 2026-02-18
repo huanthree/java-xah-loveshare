@@ -1,4 +1,4 @@
-listen: :10008
+listen: :7006
 
 tls:
   cert: CERT_FILE_PATH/cert.pem
